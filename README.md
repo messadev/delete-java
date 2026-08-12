@@ -1,2 +1,1 @@
-# If you see this repository, ignore it. This repository is just to fetch mods via "wget" to Minecraft Server on Linux.
-### Some platforms do not provide direct links to the mod with .jar format.
+#### Decided to upload mods here, so I can pull them on VPS via wget, building a Minecraft server. Most of Minecraft mod platforms restrict pulling mods from their side. This is some kind of a bypass. xd
